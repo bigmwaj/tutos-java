@@ -15,7 +15,7 @@
 	<name>spring-boot-spring-security-integration-github</name>
 	<description>Spring boot/Spring security integration tutorial(GitHub)</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

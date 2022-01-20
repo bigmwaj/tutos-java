@@ -15,7 +15,7 @@
 	<name>spring-boot-spring-session-integration-jdbc</name>
 	<description>Spring boot/Spring session integration tutorial(JDBC)</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

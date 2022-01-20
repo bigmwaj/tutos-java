@@ -15,7 +15,7 @@
 	<name>spring-boot-webflux-mongodb</name>
 	<description>Spring boot webflux based webapp</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

@@ -15,7 +15,7 @@
 	<name>spring-boot-mockito</name>
 	<description>Spring boot mockito test</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 
