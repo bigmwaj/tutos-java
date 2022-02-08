@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bigmwaj</groupId>
-	<artifactId>spring-boot-bdd-cucumber</artifactId>
+	<artifactId>tuto-spring-boot-bdd-cucumber</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-bbd-cucumber</name>
 	<description>Spring boot bdd cucumber</description>

@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bigmwaj</groupId>
-	<artifactId>spring-boot-spring-security-webflux-mongodb</artifactId>
+	<artifactId>tuto-spring-boot-spring-security-webflux-mongodb</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-spring-security-webflux-mongodb</name>
 	<description>Spring boot webflux security</description>

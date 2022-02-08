@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bigmwaj</groupId>
-	<artifactId>spring-boot-mockito</artifactId>
+	<artifactId>tuto-spring-boot-mockito</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-mockito</name>
 	<description>Spring boot mockito test</description>

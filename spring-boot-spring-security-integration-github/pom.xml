@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bigmwaj</groupId>
-	<artifactId>spring-boot-spring-security-integration-github</artifactId>
+	<artifactId>tuto-spring-boot-spring-security-integration-github</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-spring-security-integration-github</name>
 	<description>Spring boot/Spring security integration tutorial(GitHub)</description>

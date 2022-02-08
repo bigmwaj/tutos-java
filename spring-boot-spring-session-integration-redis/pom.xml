@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bigmwaj</groupId>
-	<artifactId>spring-boot-spring-session-integration-redis</artifactId>
+	<artifactId>tuto-spring-boot-spring-session-integration-redis</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-spring-session-integration-redis</name>
 	<description>Spring boot/Spring session integration tutorial(REDIS)</description>
