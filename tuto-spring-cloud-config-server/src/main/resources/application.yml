@@ -1,0 +1,15 @@
+spring:  
+  devtools:
+    add-properties: false
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        bootstrap: true
+        git:
+          uri: ${user.home}/workspace/0-projects/tuto-config-repos
+          clone-on-start:  true
+
+server:
+  port: 8181

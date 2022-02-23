@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bigmwaj
+Build-Jdk: 17.0.1
+Implementation-Title: tuto-spring-cloud-config-server
+Implementation-Version: 0.1
+Implementation-Vendor-Id: com.bigmwaj.tuto
+Implementation-URL: https://spring.io/projects/spring-boot/tuto-spring-c
+ loud-config-server
+Created-By: Maven Integration for Eclipse
+
