@@ -2,7 +2,7 @@ spring:
   devtools:
     add-properties: false
   application:
-    name: config-server
+    name: server-config
   cloud:
     config:
       server:
