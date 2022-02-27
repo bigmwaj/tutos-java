@@ -8,8 +8,11 @@ spring:
       server:
         bootstrap: true
         git:
-          uri: ${user.home}/workspace/0-projects/tutos-java/tuto-spring-cloud-config-repos
+          uri: ${user.home}/workspace/0-projects/tuto-spring-cloud-config-repos
           clone-on-start: true
-
+management:
+  endpoint:
+    refresh:
+      enabled: true
 server:
   port: 8181
