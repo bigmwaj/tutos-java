@@ -1,0 +1,8 @@
+spring:
+   application.name: spring-session-with-redis
+   session:
+      store-type: redis
+      timeout: 900
+   redis:
+      host: localhost
+      port: 6379
