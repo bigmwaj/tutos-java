@@ -1,8 +1,0 @@
-spring:
-   application.name: spring-webflux
-   data:
-      mongodb:
-         uri: mongodb+srv://bigmwaj:Vmdg8ZiAeCYmuPV@cluster0.2htol.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-   devtools:
-      livereload:
-         enabled: true
